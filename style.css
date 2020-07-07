@@ -1,0 +1,42 @@
+html {
+  background:indianred;
+}
+* {
+  box-sizing:border-box;
+
+}
+
+.header-container {
+  display:flex;
+}
+.headbar {
+background:lemonchiffon;
+align-items:center;
+justify-content:space-around;
+display:flex;
+flex-direction:row;
+height:8vh;
+width:200vh;
+border-radius:12px;
+}
+
+.button {
+  background:steelblue;
+  display:flex;
+  flex-direction:row;
+  padding:12px;
+  justify-content:center;
+  border-radius:12px;
+  font-family:monospace;
+  text-decoration:none;
+  color:black;
+  font-size:20px;
+
+}
+.button:hover {
+  background:red;
+}
+h1 {
+  font-family:monospace;
+  text-align:center;
+}
