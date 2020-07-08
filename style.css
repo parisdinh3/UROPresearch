@@ -42,3 +42,7 @@ h1 {
   font-family:monospace;
   text-align:center;
 }
+.aboutbox {
+  border-style:solid;
+  padding:15px;
+}
