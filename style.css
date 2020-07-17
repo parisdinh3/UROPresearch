@@ -66,4 +66,5 @@ h1 {
   overflow:hidden;
   border: 1px solid #ccc;
   font-size: 2rem;
+  duration:infinite;
 }
