@@ -1,66 +1,69 @@
 html {
-  background:indianred;
+  background: indianred;
   font-family: 'Overpass', sans-serif;
 }
-* {
-  box-sizing:border-box;
-  font-family: 'Overpass', sans-serif;
 
+* {
+  box-sizing: border-box;
+  font-family: 'Overpass', sans-serif;
 }
 
 .header-container {
-  display:flex;
-
+  display: flex;
 }
+
 .headbar {
-background:lemonchiffon;
-align-items:center;
-justify-content:space-around;
-display:flex;
-flex-direction:row;
-height:8vh;
-width:100%;
-border-radius:12px;
+  background: lemonchiffon;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+  height: 8vh;
+  width: 100%;
+  border-radius: 12px;
 }
-
 
 .button {
-  background:steelblue;
-  display:flex;
-  flex-direction:row;
-  padding:12px;
-  justify-content:center;
-  border-radius:12px;
+  background: steelblue;
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+  justify-content: center;
+  border-radius: 12px;
   font-family: 'Overpass', sans-serif;
-  text-decoration:none;
-  color:black;
-  font-size:20px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
 
-}
 .button:hover {
-  background:red;
+  background: red;
 }
+
 h1 {
   font-family: 'Overpass', sans-serif;
-  font-size:70px;
-  text-align:center;
-}
-.aboutbox {
-  border-style:solid;
-  padding:20px;
-  background-color:lemonchiffon;
+  font-size: 70px;
+  text-align: center;
 }
 
-@media screen and (max-width:960px){
+.aboutbox {
+  border-style: solid;
+  padding: 20px;
+  background-color: lemonchiffon;
+}
+
+@media screen and (max-width:960px) {
   .header-container {
-    flex-wrap:wrap;
+    flex-wrap: wrap;
   }
 }
+
 .style {
-transform:translateX(-200px);
+  transform: translateX(-200px);
 }
+
 .marquee {
-  overflow:hidden;
-  border:1px solid #ccc;
-  font-size:2rem;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  font-size: 2rem;
 }
