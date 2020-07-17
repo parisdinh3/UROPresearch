@@ -60,7 +60,7 @@ h1 {
 transform:translateX(-200px);
 }
 .marquee {
-  overflow:visible;
+  overflow:hidden;
   border:1px solid #ccc;
   font-size:2rem;
 }
