@@ -63,7 +63,7 @@ h1 {
 }
 
 .marquee {
-  overflow: hidden;
+  overflow:hidden;
   border: 1px solid #ccc;
   font-size: 2rem;
 }
