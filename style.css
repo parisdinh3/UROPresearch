@@ -23,6 +23,7 @@ width:100%;
 border-radius:12px;
 }
 
+
 .button {
   background:steelblue;
   display:flex;
@@ -54,4 +55,9 @@ h1 {
   .header-container {
     flex-wrap:wrap;
   }
+}
+.marquee {
+  overflow: hidden;
+  border:1px solid #ccc;
+  font-size:2rem;
 }
