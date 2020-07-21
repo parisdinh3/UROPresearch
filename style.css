@@ -1,6 +1,7 @@
 html {
   background: indianred;
   font-family: 'Overpass', sans-serif;
+  padding:20px;
 }
 
 * {
