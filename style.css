@@ -45,7 +45,9 @@ h1 {
   font-size: 70px;
   text-align: center;
 }
-
+.padding {
+  padding:20px;
+}
 .aboutbox {
   border-style: solid;
   padding: 20px;
