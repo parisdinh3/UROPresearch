@@ -1,11 +1,11 @@
 html {
   background: lavenderblush;
-  font-family: 'Quebec-SemiBold';
+font-family: 'Questrial', sans-serif;
 }
 
 * {
   box-sizing: border-box;
-  font-family: 'Quebec-SemiBold';
+  font-family: 'Questrial', sans-serif;
 }
 
 img {
