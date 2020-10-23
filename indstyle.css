@@ -2,3 +2,8 @@ html {
   background: lavenderblush;
 font-family: 'Questrial', sans-serif;
 }
+
+.aboutlogo
+{border-style: solid;
+padding: 20px;
+background-color: lemonchiffon;}
