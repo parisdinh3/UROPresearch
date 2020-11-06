@@ -1,10 +1,10 @@
 html {
-  background: lavenderblush;
+  background: mistyrose;
 font-family: 'Questrial', sans-serif;
 }
 
 .aboutlogo
-{border-style: solid;
+{
   font-size:30px;
 padding: 20px;
 background-color: lemonchiffon;}
@@ -19,7 +19,7 @@ background-color: lemonchiffon;}
 
 /* Set a background color */
 body {
-  background:lavenderblush;
+  background:mistyrose;
   font-family: 'Questrial', sans-serif;
 
 }
