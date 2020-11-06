@@ -24,6 +24,31 @@ body {
 
 }
 
+.collapsible {
+  background-color: #eee;
+  color: aliceblue;
+  cursor:pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color:aliceblue;
+}
+
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
