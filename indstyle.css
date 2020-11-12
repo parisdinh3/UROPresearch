@@ -29,6 +29,11 @@ body {
   background: mistyrose;
   font-family: 'Questrial', sans-serif;
 }
+img {
+  position:absolute;
+  top:500px;
+  right:30px;
+}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
