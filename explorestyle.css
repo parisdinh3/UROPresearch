@@ -9,9 +9,8 @@ font-family: 'Questrial', sans-serif;
 
 
 img
-{position:absolute;
+{position:relative;
 top:70px;
 right:100px;}
 
-"montreallogo.png"
-{size: 400px;}
+.montreallogo.png
