@@ -13,6 +13,9 @@ html {
   font-size: 20px;
   padding: 20px;
   background-color: palegoldenrod;
+  text-align:center;
+  max-width:1100px;
+  margin:0 auto;
 }
 
 .padding {
@@ -30,11 +33,45 @@ body {
   font-family: 'Questrial', sans-serif;
 }
 img {
-  position:absolute;
-  top:500px;
-  left:50px;
-}
+  max-width:600px;
+  position:relative;
 
+}
+.topimage {
+  margin:0 auto;
+  display:block;
+}
+.leftimage img {
+  max-width:100%;
+  margin:0 auto;
+  display:block;
+  max-height:300px;
+}
+.leftimage {
+  position:absolute;
+  left: -110%;
+  top:50%;
+  transform:translateY(-50%);
+  width:100%;
+}
+.rightimage img {
+  max-width:100%;
+  max-height:300px;
+  margin:0 auto;
+  display:block;
+}
+.rightimage {
+  position:absolute;
+  right: -110%;
+  top:50%;
+  transform:translateY(-50%);
+  max-height: 300px;
+  width:100%;
+
+}
+.AFN {
+  right: -80%;
+}
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;

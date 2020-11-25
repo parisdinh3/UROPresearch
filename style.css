@@ -29,8 +29,10 @@ img {
   display: flex;
   flex-direction: row;
   height: 8vh;
-  width: 100%;
+  max-width:1000px;
+  width:100%;
   border-radius: 12px;
+  margin:0 auto;
 }
 
 .button {

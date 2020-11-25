@@ -8,9 +8,21 @@ font-family: 'Questrial', sans-serif;
 
 
 
-img
-{position:relative;
-top:70px;
-right:100px;}
+img {
+  max-width:600px;
+  position:relative;
+}
 
-.montreallogo.png
+
+.ind {
+  top:70px;
+  right:100px;
+}
+
+
+
+.mtlr {
+  width:500px;
+  top:100px;
+  left:200px;
+}
