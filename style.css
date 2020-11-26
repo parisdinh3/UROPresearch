@@ -59,6 +59,7 @@ img {
 .aboutbox {
   padding: 20px;
   background-color: lemonchiffon;
+  border-radius:12px;
 }
 
 @media screen and (max-width:960px) {
