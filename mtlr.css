@@ -13,6 +13,10 @@ body {
   font-family: 'Questrial', sans-serif;
 }
 
+p {
+  text-align:center;
+}
+
 .aboutlogo {
   font-size: 30px;
   padding: 20px;
