@@ -28,7 +28,7 @@ p {
   padding: 20px;
   background-color: palegoldenrod;
   text-align:center;
-  max-width:600px;
+  max-width:200px;
   margin:0 auto;
 }
 
@@ -42,7 +42,11 @@ img {
 
 .rue {
   padding:50px;
-  right:300px;
-  bottom:100px;
+  right:-50px;
+  top:-60px;
+}
 
+.g {
+  left:100px;
+  top:-110px;
 }
