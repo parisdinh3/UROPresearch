@@ -2,6 +2,9 @@ html {
   background: mistyrose;
   font-family: 'Questrial', sans-serif;
 }
+p {
+  text-align:center;
+}
 
 .aboutlogo {
   font-size: 30px;
