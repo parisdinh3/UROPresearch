@@ -1,13 +1,15 @@
 html {
-  background: mistyrose;
+
 font-family: 'Questrial', sans-serif;
+background-color: mistyrose;
 }
 
 * {
+  margin:0;
+  padding:0;
   box-sizing: border-box;
   font-family: 'Questrial', sans-serif;
 }
-
 img {
   display: block;
   margin-left: auto;
@@ -93,3 +95,22 @@ img {
   overflow: hidden;
   height:100%;
 }
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+window.onload = function() {
+  Particles.init({
+    selector: '.background'
+  });
+};
