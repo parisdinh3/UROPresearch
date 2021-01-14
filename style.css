@@ -472,10 +472,16 @@ canvas{
   width: 100vw;
   height: 100vh;
   position:fixed;
-  z-index:999;
+  z-index:-1;
   background-color: #b61924;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+}
+@media screen and (max-width:800px) {
+
+  body{
+    font-size:10px;
+  }
 }
