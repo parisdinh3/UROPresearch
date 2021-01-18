@@ -1,6 +1,9 @@
 html {
-  background: papayawhip;
+  background: #b61924;
 font-family: 'Questrial', sans-serif;
+}
+body {
+  background-color: #b61924;
 }
 
 
@@ -27,4 +30,25 @@ img {
 .hyd {
   top:250px;
   left:200px;
+}
+canvas{
+  display:block;
+  vertical-align:bottom;
+}
+#particles-js{
+  width: 100vw;
+  height: 100vh;
+  position:fixed;
+  z-index:-1;
+  background-color: #b61924;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width:800px) {
+
+  body{
+    font-size:10px;
+  }
 }
