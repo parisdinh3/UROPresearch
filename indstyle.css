@@ -82,6 +82,13 @@ img {
 .AFN {
   right: -80%;
 }
+.union {
+  top:50%;
+  max-height:100px;
+  width:40%;
+  left:-130%;
+  padding:20px;
+}
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
