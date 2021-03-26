@@ -11,6 +11,9 @@ html {
   padding: 20px;
   background-color: lemonchiffon;
 }
+.center {
+  text-align:center;
+}
 
 .thingstoknow {
   font-size: 20px;
