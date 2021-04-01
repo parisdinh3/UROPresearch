@@ -45,12 +45,12 @@ img {
 }
 
 .deepdives {
-  font-size: 20px;
+  font-size: 50px;
   padding: 20px;
-  background-color: palegoldenrod;
   text-align:center;
   max-width:200px;
   margin:0 auto;
+  text-shadow: 2px 4px #FFA500;
 }
 
 p {
