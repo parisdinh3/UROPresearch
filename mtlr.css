@@ -17,9 +17,13 @@ p {
   text-align:center;
 }
 .flag {
-  position:center;
+  left:100px;
+  max-width:600px;
 }
-
+.flagtwo {
+  right:300px;
+  max-width:600px;
+}
 .aboutlogo {
   font-size: 30px;
   padding: 20px;
