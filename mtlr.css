@@ -16,6 +16,9 @@ body {
 p {
   text-align:center;
 }
+.flag {
+  position:center;
+}
 
 .aboutlogo {
   font-size: 30px;
