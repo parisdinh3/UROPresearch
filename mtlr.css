@@ -17,12 +17,12 @@ p {
   text-align:center;
 }
 .flag {
-  left:100px;
   max-width:600px;
+  left:30px;
 }
 .flagtwo {
-  right:300px;
-  max-width:600px;
+  right:-240px;
+  max-width:450px;
 }
 .aboutlogo {
   font-size: 30px;
