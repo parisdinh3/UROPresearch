@@ -333,16 +333,7 @@ button:focus{
   100%{top: -100vh; opacity: 0;}
 }
 
-.header{
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: 'Roboto', sans-serif;
-  font-weight: 200;
-  color: black;
-  font-size: 2em;
-}
+
 
 #head1 {
   opacity: 100;
@@ -356,7 +347,14 @@ button:focus{
   max-width:1000px;
   width:100%;
   margin:0 auto;
-  position: absolute;
+  position:relative;
+  top:300px;
+  align-items:center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  color: black;
+  font-size: 2em;
+
 }
 
 
