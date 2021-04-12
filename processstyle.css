@@ -1,5 +1,5 @@
 html {
-  background-color:#345eeb;
+  background-color:#2747b0;
   font-family: 'Questrial', sans-serif;
   color:white;
 }
@@ -448,7 +448,7 @@ canvas{
   height: 100vh;
   position:fixed;
   z-index:-1;
-  background-color: #345eeb;
+  background-color:#2747b0;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
