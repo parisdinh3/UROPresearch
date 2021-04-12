@@ -14,7 +14,16 @@ html {
 .center {
   text-align:center;
 }
-
+.cool {
+  text-align:center;
+  padding:20px;
+  background-color:lemonchiffon;
+  margin:0 auto;
+  max-width:500px;
+}
+.hi {
+  text-align:center;
+}
 .thingstoknow {
   font-size: 20px;
   padding: 20px;
